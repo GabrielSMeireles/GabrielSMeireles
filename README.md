@@ -1,18 +1,21 @@
-<div>
-  <a href="https://github.com/GabrielSMeireles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSMeireles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMeireles&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Minhas redes sociais 👇👇
- 
-<div> 
-  <a href="https://www.linkedin.com/in/gabriel-meireles-b36a51281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<h1>
+    <span>Gabriel Meireles</span>
+</h1>
+
+<p align="justify">Meu objetivo é Evoluir como estagiário aplicando meus conhecimentos e me destacando na área, com minha dedicação e proatividade.
+<br><br>
+Sempre fui entusiasta dos jogos e da tecnologia, tenho paixão por aprender e resolver problemas,
+sigo com o foco em me tornar um desenvolvedor de alto nível e contribuir com experiências únicas
+para os usuários, estou animado para enfrentar desafios e colaborar com profissionais talentosos.</p>
+
+### Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0099FF&color=FFF)](https://www.linkedin.com/in/gabrielsmeireles/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF2323&color=FFF)](https://www.instagram.com/gabriel_meirelezz/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=000&color=FFF)](https://github.com/GabrielSMeireles/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14E614&color=FFF)](https://api.whatsapp.com/send/?phone=5511955209403&text=Ol%C3%A1&type=phone_number&app_absent=0)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF2323&color=FFF)](mailto:gabrielmeireles0007@gmail.com) 
+
+### Status GitHub
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSMeireles&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF2323&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF2323&theme=jolly)
