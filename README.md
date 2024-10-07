@@ -10,11 +10,11 @@ para os usuários, estou animado para enfrentar desafios e colaborar com profiss
 
 ### Conecte-se comigo!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0099FF&color=FFF)](https://www.linkedin.com/in/gabrielsmeireles/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF2323&color=FFF)](https://www.instagram.com/gabriel_meirelezz/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0099FF&color=FFF)](https://www.linkedin.com/in/gabrielsmeireles/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF2323&color=FFF)](https://www.instagram.com/gabriel_meirelezz/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=000&color=FFF)](https://github.com/GabrielSMeireles/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14E614&color=FFF)](https://api.whatsapp.com/send/?phone=5511955209403&text=Ol%C3%A1&type=phone_number&app_absent=0)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF2323&color=FFF)](mailto:gabrielmeireles0007@gmail.com) 
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF2323&color=FFF)](mailto:gabrielmeireles0007@gmail.com)
 
 ### Status GitHub
 
