@@ -1,21 +1,85 @@
-<h1>
-    <span>Gabriel Meireles</span>
-</h1>
+# Gabriel Meireles
 
-<p align="justify">Meu objetivo é Evoluir como estagiário aplicando meus conhecimentos e me destacando na área, com minha dedicação e proatividade.
-<br><br>
-Sempre fui entusiasta dos jogos e da tecnologia, tenho paixão por aprender e resolver problemas,
-sigo com o foco em me tornar um desenvolvedor de alto nível e contribuir com experiências únicas
-para os usuários, estou animado para enfrentar desafios e colaborar com profissionais talentosos.</p>
+Desenvolvedor Back-end | Full Stack | Java | Node.js | APIs REST | SQL
 
-### Conecte-se comigo!
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Mogi das Cruzes e tenho grande interesse em engenharia de software, desenvolvimento back-end e construção de aplicações web escaláveis.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0099FF&color=FFF)](https://www.linkedin.com/in/gabrielsmeireles/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF2323&color=FFF)](https://www.instagram.com/gabriel_meirelezz/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=000&color=FFF)](https://github.com/GabrielSMeireles/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=14E614&color=FFF)](https://api.whatsapp.com/send/?phone=5511955209403&text=Ol%C3%A1&type=phone_number&app_absent=0)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF2323&color=FFF)](mailto:gabrielmeireles0007@gmail.com)
+Atualmente atuo com automação de processos e integração de sistemas, trabalhando na melhoria de fluxos operacionais e organização de informações entre diferentes plataformas. Essa experiência me permitiu desenvolver um perfil analítico, focado em resolução de problemas e construção de soluções eficientes.
 
-### Status GitHub
+Paralelamente, desenvolvo projetos acadêmicos e pessoais utilizando tecnologias como Java, Node.js e React, criando APIs REST, integrando bancos de dados e aplicando boas práticas de organização de código e versionamento.
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSMeireles&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF2323&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF2323&theme=jolly)
+Meu objetivo é evoluir continuamente como desenvolvedor de software, aprofundando conhecimentos em arquitetura de sistemas, dados e desenvolvimento de aplicações robustas.
+
+---
+
+## Tecnologias
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+### Sistema de Gestão para Clínica Veterinária
+
+Sistema full stack desenvolvido para gerenciamento de clínica veterinária.
+
+Funcionalidades:
+- Cadastro de médicos, donos e pets
+- Agendamento de consultas
+- Controle de estoque
+- API REST para integração com front-end
+
+Tecnologias utilizadas:
+Java • MongoDB • HTML • CSS • JavaScript
+
+Repositório:
+https://github.com/GabrielSMeireles/api-clinica-veterinaria-java-spark-mongodb
+
+---
+
+## Estatísticas do GitHub
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSMeireles&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMeireles&layout=compact&theme=tokyonight)
+
+---
+
+## Atualmente estudando
+
+- Arquitetura de software
+- Desenvolvimento back-end
+- Integração de APIs
+- Aplicações orientadas a dados
+- Inteligência Artificial aplicada a software
+
+---
+
+## Contato
+
+LinkedIn  
+https://linkedin.com/in/gabrielsmeireles
+
+Email  
+gabrielmeireles0007gmail.com
