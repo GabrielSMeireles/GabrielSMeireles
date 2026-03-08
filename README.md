@@ -30,6 +30,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor de software, aprofundan
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,14 +56,6 @@ Java • MongoDB • HTML • CSS • JavaScript
 
 Repositório:
 https://github.com/GabrielSMeireles/api-clinica-veterinaria-java-spark-mongodb
-
----
-
-## Estatísticas do GitHub
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSMeireles&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMeireles&layout=compact&theme=tokyonight)
 
 ---
 
